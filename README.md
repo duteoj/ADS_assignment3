@@ -73,7 +73,9 @@ Time Complexity:
 ## D. Screenshots
 
 <img width="293" height="286" alt="10elements" src="https://github.com/user-attachments/assets/bd136af8-c638-4289-bf32-c1cecab38c26" />
+
 <img width="293" height="285" alt="100elements" src="https://github.com/user-attachments/assets/8323aa3f-5ff6-4b92-a877-f89e9f860877" />
+
 <img width="298" height="291" alt="1000elements" src="https://github.com/user-attachments/assets/3ae790fa-70d1-448e-bdf7-adacf73d189b" />
 
 
